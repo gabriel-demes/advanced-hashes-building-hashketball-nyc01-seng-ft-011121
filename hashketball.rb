@@ -14,7 +14,7 @@ def game_hash
           assists: 12,
           steals:3,
           blockes:1,
-          slam_dunks:1          
+          slam_dunks:1
         },
         {
           player_name: "Reggie Evans",
@@ -36,7 +36,7 @@ def game_hash
         assists: 10,
         steals: 3,
         blocks: 1,
-        slam_dunks: 15  
+        slam_dunks: 15
       },
       {
         player_name: "Mason Plumlee",
@@ -61,7 +61,7 @@ def game_hash
         slam_dunks: 1
       }
       ],
-      
+
     },
     away:{
       team_name: "Charlotte Hornets",
