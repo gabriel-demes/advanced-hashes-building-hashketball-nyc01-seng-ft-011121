@@ -69,7 +69,7 @@ def game_hash
       players:[
         {
           player_name: "Jeff Adrien",
-          numer: 4,
+          number: 4,
           shoe: 18,
           points: 10,
           rebounds: 1,
